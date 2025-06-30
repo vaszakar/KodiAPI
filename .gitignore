@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# PyCharm project settings
+.idea/
+
+# Pytest
+.cache/
+pytest_cache/
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
